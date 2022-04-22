@@ -1,3 +1,5 @@
+archival notice, Banane9 made a fork that allows you to toggle the active state of each thumbstick [Banane9/NeosMaybeJump](https://github.com/Banane9/NeosMaybeJump)
+
 # NoLeftJump
 
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that disables your left thumbstick being used as a jump.
